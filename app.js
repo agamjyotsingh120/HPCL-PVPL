@@ -11,3 +11,10 @@ function djf(){
 function gff(){
     window.location = "ghj.html"
 }
+
+function tlp3(){
+    window.location = "lp.html"
+}
+function op1(){
+    window.location = "lp1.html"
+}
